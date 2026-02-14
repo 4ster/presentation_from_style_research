@@ -1,0 +1,17 @@
+# Temp files (unpacked XML, QA screenshots, node_modules, scripts)
+**/temp/
+
+# Claude Code config
+.claude/
+.agents/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
